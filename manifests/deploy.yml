@@ -16,4 +16,4 @@ spec:
         - name: cont-1
           image: syamdeekshit/node:nodeimage
           ports:
-            - containerPort: 3000
+            - containerPort: 80
